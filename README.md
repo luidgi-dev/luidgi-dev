@@ -2,14 +2,8 @@
 
 Software Engineer with a strong product mindset.
 
-I graduated from a French engineering school before moving into software engineering. I enjoy turning ideas and business needs into software, from understanding the problem to shipping and maintaining the solution.
+I enjoy building software from idea to production, combining engineering, product thinking and modern development tools.
 
-Most of the projects you'll find here are things I build to learn by doing, explore new technologies and create tools I'd genuinely enjoy using.
+Most repositories here are projects I build to learn by doing and create tools I'd genuinely want to use.
 
-## Current project
-
-### Strive
-
-[Strive](https://github.com/luidgi-dev/strive) started as a personal habit tracker and has become my playground for building production-ready software.
-
-It's where I experiment with full-stack development, product thinking, AI-assisted workflows and polished user experiences while treating it like a real product rather than a demo.
+Currently building **[Strive](https://github.com/luidgi-dev/strive)**, a personal habit tracker that has become my playground for experimenting with full-stack development, AI-assisted workflows and building production-ready software.
